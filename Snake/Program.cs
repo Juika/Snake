@@ -13,11 +13,9 @@ namespace Snake
         {
 
             Point p1 = new Point(7, 2, '*');
-
             Point p2 = new Point(2,3,'#');
             
             p1.Draw();
-
             p2.Draw();
 
             List<int> numList = new List<int>();
